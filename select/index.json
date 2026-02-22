@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Heartbreak Anniversary",
+  "base_artist": "GIVĒON",
+  "createdAt": "2026-02-22T02:07:11.863674Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HEARTBREAK ANNIVERSARY",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/01_HEARTBREAK_ANNIVERSARY_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heartbreak Anniversary",
+      "artist": "GIVĒON",
+      "has_synced": true,
+      "path": "select/02_Heartbreak_Anniversary_GIVĒON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heartbreak Anniversary",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/03_Heartbreak_Anniversary_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heartbreak Anniversary",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/04_Heartbreak_Anniversary_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heartbreak Anniversary",
+      "artist": "GIVĒON",
+      "has_synced": true,
+      "path": "select/05_Heartbreak_Anniversary_GIVĒON.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heartbreak Anniversary",
+      "artist": "Tarrus Riley",
+      "has_synced": true,
+      "path": "select/06_Heartbreak_Anniversary_Tarrus_Riley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heartbreak Anniversary",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/07_Heartbreak_Anniversary_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heartbreak Anniversary",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/08_Heartbreak_Anniversary_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heartbreak Anniversary",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/09_Heartbreak_Anniversary_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Giveon - Heartbreak Anniversary (Official Music Video)",
+      "artist": "Givēon",
+      "has_synced": true,
+      "path": "select/10_Giveon_-_Heartbreak_Anniversary_(Official_Music_Video)_Givēon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heartbreak Anniversary (Official Music Video)",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/11_Heartbreak_Anniversary_(Official_Music_Video)_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heartbreak Anniversary",
+      "artist": "Conor Maynard",
+      "has_synced": false,
+      "path": "select/12_Heartbreak_Anniversary_Conor_Maynard.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Giveon - Heartbreak Anniversary (Audio)",
+      "artist": "Givēon",
+      "has_synced": true,
+      "path": "select/13_Giveon_-_Heartbreak_Anniversary_(Audio)_Givēon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Heartbreak Anniversary",
+      "artist": "Andrew Foy feat. Renee Foy",
+      "has_synced": false,
+      "path": "select/14_Heartbreak_Anniversary_Andrew_Foy_feat._Renee_Foy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heartbreak Anniversary",
+      "artist": "Andrew Foy & Renee Foy",
+      "has_synced": false,
+      "path": "select/15_Heartbreak_Anniversary_Andrew_Foy_&_Renee_Foy.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Heartbreak Anniversary (Official Music Video)",
+      "artist": "Givēon",
+      "has_synced": true,
+      "path": "select/16_Heartbreak_Anniversary_(Official_Music_Video)_Givēon.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Heartbreak Anniversary",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/17_Heartbreak_Anniversary_Giveon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HEARTBREAK ANNIVERSARY",
+      "artist": "GIVĒON",
+      "has_synced": false,
+      "path": "select/pl_01_HEARTBREAK_ANNIVERSARY_GIVĒON.txt"
+    }
+  ]
+}
